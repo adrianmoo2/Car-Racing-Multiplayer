@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 4c797b197a570492f8e602d218862058
+timeCreated: 1487295180
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlueCircle
+    21300002: BlueRectangle
+    21300004: Car1
+    21300006: Car2
+    21300008: BackChevron
+    21300010: Close
+    21300012: UpArrow
+    21300014: FlagRectangle
+    21300016: Car3
+    21300018: Car4
+    21300020: YellowCircle
+    21300022: RedCircle
+    21300024: Track1
+    21300026: GreenCircle
+    21300028: RedRectangle
+    21300030: YellowRectangle
+    21300032: Track2
+    21300034: GreenRectangle
+    21300036: GreyRectangle
+    21300038: BackArrow
+    21300040: ChangeCamera
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueCircle
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 749
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BlueRectangle
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 923
+        width: 256
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BackChevron
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 843
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Close
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 844
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UpArrow
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 864
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: FlagRectangle
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 749
+        width: 202
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: YellowCircle
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 473
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RedCircle
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 472
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenCircle
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 196
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RedRectangle
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 370
+        width: 256
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: YellowRectangle
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 268
+        width: 256
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreenRectangle
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 166
+        width: 256
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GreyRectangle
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 56
+        width: 256
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BackArrow
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 72
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ChangeCamera
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 66
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
