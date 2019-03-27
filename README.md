@@ -6,6 +6,8 @@
 
 What: Multiplayer Car Racing mobile game
 
+When: Summer 2018, 2Axion Games Offices in Cerritos, California  
+
 Coded in: Unity Engine & Microsoft Visual Studio
 
 Notable Completed Added Functionalities: 
