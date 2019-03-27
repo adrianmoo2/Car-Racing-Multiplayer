@@ -15,6 +15,7 @@ Coded in: Unity Engine & Microsoft Visual Studio
 Notable Completed Added Functionalities: 
   -Multiplayer mode  
   -Fuel and health  
+  -In-game Leaderboard (not shown in images)
   -Collision detection with other players and environment objects  
   -Modified static camera as well as dynamic camera movement  
   -Updated models and sprites with in-house design team  
