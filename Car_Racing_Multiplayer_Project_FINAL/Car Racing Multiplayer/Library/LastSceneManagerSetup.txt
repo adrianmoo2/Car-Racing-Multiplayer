@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/HighroadEngine/Demos/TinyCars/Scenes/LocalLobby.unity
+- path: Assets/HighroadEngine/Demos/TinyCars/Scenes/TheBridge.unity
   isLoaded: 1
   isActive: 1

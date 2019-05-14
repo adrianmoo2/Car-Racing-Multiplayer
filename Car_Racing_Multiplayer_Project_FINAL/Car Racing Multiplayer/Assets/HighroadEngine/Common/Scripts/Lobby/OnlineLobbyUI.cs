@@ -69,7 +69,7 @@ namespace MoreMountains.HighroadEngine
 		public virtual void Start()
 		{
 			PopupCanvas.gameObject.SetActive(false);
-			ServerAdressInput.text = Network.player.ipAddress;
+			//ServerAdressInput.text = Network.player.ipAddress;
 		}
 
 		/// <summary>
