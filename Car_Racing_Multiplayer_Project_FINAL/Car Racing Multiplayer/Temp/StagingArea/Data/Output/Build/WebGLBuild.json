@@ -1,0 +1,11 @@
+{
+"companyName": "Best Racing Games",
+"productName": "Car Racing Multiplayer",
+"dataUrl": "WebGLBuild.data.unityweb",
+"asmCodeUrl": "WebGLBuild.asm.code.unityweb",
+"asmMemoryUrl": "WebGLBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGLBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
