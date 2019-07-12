@@ -1,6 +1,6 @@
 # Car Racing Multiplayer
 
-Multiplayer car racing game on both mobile and web platforms created during Summer 2018 and the 2Axion Games' Cerritos office.
+Multiplayer car racing game on playable both mobile and web created during Summer 2018 and the 2Axion Games' Cerritos office.
 
 ## Languages / Frameworks used
 
