@@ -37,12 +37,6 @@ Multiplayer car racing game on playable both mobile and web created during Summe
 * Search for the game folder using Unity Hub
 * Play!
 
-## Usage
-
-*Give your users a sense of the workflow for using your project/tool.*
-*For a website this might include code for running locally.*
-*For an API this might include method and parameter specs.*
-
 ## Demo
 
 ![The Bean](https://user-images.githubusercontent.com/14877762/55051390-20b6e000-5012-11e9-9c34-19dda8a4c08d.PNG)
